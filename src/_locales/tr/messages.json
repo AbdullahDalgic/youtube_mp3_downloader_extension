@@ -1,0 +1,14 @@
+{
+  "extDesc": {
+    "description": "Extension description.",
+    "message": "Extension to download mp3 from youtube."
+  },
+  "extName": {
+    "description": "Extension name.",
+    "message": "Youtube Mp3 Downloader"
+  },
+  "download": {
+    "description": "Download button",
+    "message": "↓ indir"
+  }
+}

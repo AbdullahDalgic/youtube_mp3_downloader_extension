@@ -1,0 +1,16 @@
+#download_button__ {
+  display: block;
+  background-color: #c00;
+  color: #fff;
+  font-size: 12px;
+  text-transform: uppercase;
+  padding: 10px 15px;
+  margin: 0 0 10px auto;
+  border-radius: 2px;
+  font-size: 12px;
+  font-weight: bold;
+  border: 0;
+  cursor: pointer;
+  font-family: "Roboto";
+  z-index: 99999;
+}
